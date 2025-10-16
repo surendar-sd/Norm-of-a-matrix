@@ -13,8 +13,8 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 # Register No:212224110052
 # Developed By: S.D. Surendar
 # 1-Norm of a Matrix
-# Register No:212224110006
-# Developed By:ARUNRAJ R
+# Register No:212224110052
+# Developed By: S.D. Surendar
 # 1-Norm of a Matrix
 import numpy as np
 mat = np.array(eval(input()))
@@ -28,8 +28,8 @@ print(Norm_of_matrix)
 # 2-Norm of a Matrix
 '''
 Program to find 2-norm of a matrix.
-Developed by: yourname : ARUNRAJ R
-RegisterNumber: 212224110006
+Developed by: yourname : S.D. Surendar
+RegisterNumber: 212224110052
 '''
 import numpy as np
 mat = np.array(eval(input()))
@@ -42,8 +42,8 @@ print(Norm_of_matrix)
 # Infinity Norm of a Matrix
 '''
 Program to find 1-norm of a matrix.
-Developed by: ARUNRAJ R
-RegisterNumber: 212224110006
+Developed by: S.D. Surendar
+RegisterNumber: 212224110052
 '''
 import numpy as np
 mat = np.array(eval(input()))
@@ -59,7 +59,8 @@ print(Norm_of_matrix)
 
 
 ### 2-Norm of a Matrix
-<img width="1317" height="848" alt="Screenshot 2025-10-16 082125" src="https://github.com/user-attachments/assets/b9e2811a-433e-425a-9549-dbc8379b3fd6" />
+<img width="1315" height="795" alt="Screenshot 2025-10-16 110738" src="https://github.com/user-attachments/assets/f1fa2a70-6297-46b2-a380-57e64aa12cec" />
+
 
 
 ### Infinity Norm of a Matrix
